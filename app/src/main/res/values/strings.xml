@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Budge</string>
+    <string name="budge">Budge</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="_0_00">0.00</string>
+    <string name="who_did_you_pay">Who did you pay?</string>
+    <string name="payment">Payment</string>
+    <string name="date">Date</string>
+    <string name="budget_name">Budget Name</string>
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="edit_budget">Edit Budget</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="add_new_budget">new budget</string>
+</resources>
